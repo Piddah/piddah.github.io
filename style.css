@@ -33,26 +33,9 @@ article {
 
 nav {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: right;
     background-color: #333;
     color: white;
-}
-
-.myName {
-    display: flex;
-    flex-direction: column;
-}
-
-nav h1 {
-    margin: 0;
-    font-size: 30px;
-}
-
-nav p {
-    margin: 0;
-    font-size: 18px;
-    color: rgb(200, 200, 200);
 }
 
 nav ul {
